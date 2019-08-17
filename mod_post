@@ -1,0 +1,35 @@
+## Marking Your Submission Solved
+
+When you get the correct answer to your question, reply to the FIRST user that answered correctly with a comment that has `Solved!` in it. This will give the user who answered it a point in their flair. *(You must include the exclamation point)*
+
+* Only OP or a mod can mark a post `Solved!`. If you see OP acknowledge the user gave the correct answer without saying `Solved!`, report the comment so the post can be manually marked "solved" by the mods.
+* Only one point can be awarded per thread. OP can contact mods if they believe multiple points need to be given, or if they accidentally awarded the point to the wrong user.
+
+### **Q: What if I find the answer myself/on my own?**
+
+Reply to your comment with `Solved!` in the comment. You won't get a point, but the flair will get set.
+
+### Q: What if OP hasn’t answered?
+
+Unfortunately, we can’t really confirm whose answer is right if OP never responds, but these will be handled on a case-by-case basis and will be left to the mod’s discretion.
+
+&nbsp;
+
+[Here's what you'll see when this is done properly:](https://files.catbox.moe/7hu68p.png)
+
+* OP responds with a comment with "Solved!" anywhere in the text.
+* Post gets flaired with "Solved" (note no "!") (by Automoderator). 
+    * THERE MAY BE A DELAY OF UP TO A DAY HERE, WhatisThisBot does not run 24/7\. It's usually near immediate on weekdays.
+* WhatIsThisBot awards the point, sets flair to "Solved!”
+* Person who answered gets a reply from the bot notifying of point.
+* The reply from the bot will have who accepted the answer (OP or a mod), and a number indicating the user's point total.
+
+### Flair Points
+
+If you have text in your flair, your score will show before it, e.g. `3/This is my flair`
+
+The bot is not running 24/7 yet, so sometimes it may immediately process notifications, sometimes it may be several hours. If you see the "Solved" flair set, don't worry, it will get done.
+
+### Old Posts
+
+Posts beyond the last six months have been archived and are ineligible for flair points.
